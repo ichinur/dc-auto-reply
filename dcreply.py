@@ -16,7 +16,7 @@ print("Telegram: " + telegram)
 
 channel_id = input("Masukkan ID channel: ").strip()
 
-with open("pesan.txt", "r") as f:
+with open("massage.txt", "r") as f:
     words = [line.strip() for line in f.readlines()]
 
 with open("token.txt", "r") as f:
