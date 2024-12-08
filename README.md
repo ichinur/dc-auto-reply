@@ -2,7 +2,7 @@
 ![Auto Reply Screenshot](https://github.com/ichinur/dc-auto-reply/blob/main/ss.png)
 
 ## Change keyword in here
-![Keyword Image](https://github.com/ichinur/dc-auto-reply/blob/main/keyword.png)
+![Keyword Image](https://github.com/ichinur/dc-auto-reply/blob/main/changekeyword.png)
 
 # How to Retrieve Your Discord Token
 
