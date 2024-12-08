@@ -84,7 +84,7 @@ while True:
             author = latest_message['author']['username']
             content = latest_message['content']
             is_bot = latest_message['author'].get('bot', False)
-            keywords = ["what", "lv", "bencat"] #Change Keyword Here
+            keywords = ["what", "lv", "how"] #Change Keyword Here
             content_lower = content.lower()
 
             if message_id != last_message_id and not is_bot and any(keyword in content_lower for keyword in keywords):
