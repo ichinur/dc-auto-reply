@@ -14,7 +14,7 @@ print("Script: " + script)
 telegram = "@litbrother"
 print("Telegram: " + telegram)
 
-channel_id = input("Masukkan ID channel: ").strip()
+channel_id = input("Your Channel ID: ").strip()
 
 with open("massage.txt", "r") as f:
     words = [line.strip() for line in f.readlines()]
