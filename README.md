@@ -1,5 +1,8 @@
+# AUTO LEVELING DISCORD BOT
 ![Auto Reply Screenshot](https://github.com/ichinur/dc-auto-reply/blob/main/ss.png)
 
+## Change keyword in here
+![Keyword Image](https://github.com/ichinur/dc-auto-reply/blob/main/keyword.png)
 
 # How to Retrieve Your Discord Token
 
@@ -53,4 +56,12 @@ pip install -r requirements.txt
 ```bash
 python3 dcreply.py
 ```
-
+# tags
+discord
+grinding
+leveling
+reply
+auto
+mee6
+og
+up
