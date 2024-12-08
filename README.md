@@ -56,6 +56,8 @@ pip install -r requirements.txt
 ```bash
 python3 dcreply.py
 ```
+- Input your `Channel ID`
+
 > **Note:** DYOR (Do Your Own Research) before using or integrating this script.
 
 ## Tags
