@@ -56,12 +56,12 @@ pip install -r requirements.txt
 ```bash
 python3 dcreply.py
 ```
-# tags
-discord
-grinding
-leveling
-reply
-auto
-mee6
-og
-up
+## Tags
+- discord
+- grinding
+- leveling
+- reply
+- auto
+- mee6
+- og
+- up
