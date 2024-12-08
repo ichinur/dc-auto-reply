@@ -1,3 +1,6 @@
+![Auto Reply Screenshot](https://github.com/ichinur/dc-auto-reply/blob/main/ss.png)
+
+
 # How to Retrieve Your Discord Token
 
 1. **Open Discord in Your Browser**  
