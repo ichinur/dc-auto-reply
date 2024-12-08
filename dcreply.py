@@ -3,17 +3,21 @@ import random
 import time
 from colorama import Fore
 
-print("╦╔═╗╦ ╦╦╔╗ ╔═╗╔╦╗")
-print("║║  ╠═╣║╠╩╗║ ║ ║ ")
-print("╩╚═╝╩ ╩╩╚═╝╚═╝ ╩ ")
-print("\n===========================================")
+print("""
+  _ _ _   _               _   _               
+ | (_) |_| |__  _ __ ___ | |_| |__   ___ _ __ 
+ | | | __| '_ \| '__/ _ \| __| '_ \ / _ \ '__|
+ | | | |_| |_) | | | (_) | |_| | | |  __/ |   
+ |_|_|\__|_.__/|_|  \___/ \__|_| |_|\___|_|   
+                                              
+""")
 author = "ichi"
 print("Author: " + author)
 script = "Auto-Reply Discord"
 print("Script: " + script)
 telegram = "@litbrother"
 print("Telegram: " + telegram)
-
+print("\n=============================================")
 channel_id = input("Your Channel ID: ").strip()
 
 with open("massage.txt", "r") as f:
