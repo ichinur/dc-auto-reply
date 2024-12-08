@@ -1,4 +1,4 @@
-# AUTO LEVELING DISCORD BOT
+# **Auto Leveling Discord Bot**
 ![Auto Reply Screenshot](https://github.com/ichinur/dc-auto-reply/blob/main/ss.png)
 
 ## Change keyword in here
